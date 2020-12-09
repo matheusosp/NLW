@@ -1,7 +1,7 @@
 # NLW Happy
 
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="happy.png" />
 </h1>
 
 <p align="center">

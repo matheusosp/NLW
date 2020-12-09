@@ -1,8 +1,8 @@
 # NLW Happy
 
-<h1 align="center">
+<p align="center">
     <img alt="Happy" title="Happy" src="happy.png" />
-</h1>
+</p>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,9 +19,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
